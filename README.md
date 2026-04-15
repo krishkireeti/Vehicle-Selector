@@ -1,8 +1,8 @@
 # Vehicle Selector
 
 ## Setup
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 ## Run Tests
 npm run test
